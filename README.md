@@ -1,4 +1,4 @@
-# abcUni
+# University Management System
 NetBeans Project
 
 This is a simple and basic University management system which has been included basic functionalities in a university management system. 
