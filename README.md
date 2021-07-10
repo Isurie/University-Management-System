@@ -20,3 +20,12 @@ prerequisites
   • mysql-connector-java-5.1.13-bin 
   
   • xampp-win32-1.8.3-0-VC11-installer
+  
+##
+![Screenshot (251)](https://user-images.githubusercontent.com/36602031/125169828-8f131280-e1c9-11eb-87c4-9fad412d1384.png)
+
+##
+![Screenshot (252)](https://user-images.githubusercontent.com/36602031/125169739-29268b00-e1c9-11eb-9f48-149a49399298.png)
+
+##
+![Screenshot (253)](https://user-images.githubusercontent.com/36602031/125169749-35124d00-e1c9-11eb-87c5-40cd99fc58e0.png)
